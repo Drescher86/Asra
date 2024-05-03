@@ -1,0 +1,728 @@
+{
+  "vaultName": "dnd-legends",
+  "lastExport": 1714770680689,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light sizing-readable check-color check-bg wotc-beyond dataview-regular-table",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "content/Assets/Gods/Aeon.jpg",
+    "content/Assets/Gods/Drexel.jpg",
+    "content/Assets/Gods/Eldrin.jpg",
+    "content/Assets/Gods/Lysandra.jpg",
+    "content/Assets/Gods/Miran.jpeg",
+    "content/Assets/Gods/Noctra.jpeg",
+    "content/Assets/Gods/Syrax.jpeg",
+    "content/Assets/Gods/Tharros.jpeg",
+    "content/Assets/Gods/Vox.jpeg",
+    "content/Assets/Gods/Zephyra.jpeg",
+    "content/Assets/Maps/Asra.png",
+    "content/Assets/Maps/auria.png",
+    "content/Assets/Maps/riverton.png",
+    "content/Assets/Maps/Zephia.png",
+    "content/Assets/NPCs/Alaric.jpg",
+    "content/Assets/NPCs/brakka.jpg",
+    "content/Assets/NPCs/Elrohir.jpg",
+    "content/Assets/NPCs/Krogar.jpg",
+    "content/Assets/Placeholders/27002.jpg",
+    "content/Assets/Placeholders/user-profile-front-side-with-white-background.jpg",
+    "content/Assets/Places/gården.jpg",
+    "content/World/Guder/Aeon.md",
+    "content/World/Guder/Drexel.md",
+    "content/World/Guder/Eldrin.md",
+    "content/World/Guder/Lysandra.md",
+    "content/World/Guder/Miran.md",
+    "content/World/Guder/Noctra.md",
+    "content/World/Guder/Syrax.md",
+    "content/World/Guder/Tharros.md",
+    "content/World/Guder/Vox.md",
+    "content/World/Guder/Zephyra.md",
+    "content/World/Lokationer/Riverton/Gården.md",
+    "content/World/Lokationer/Zephia/ZephiaMap.md",
+    "content/World/Lokationer/Auria.md",
+    "content/World/Lokationer/Riverton.md",
+    "content/World/Lokationer/Zephia.md",
+    "content/World/NPCs/Aleric.md",
+    "content/World/NPCs/Brakka Giftpil.md",
+    "content/World/NPCs/Krogar Ironfist.md",
+    "content/World/Spillere/Daecan.md",
+    "content/World/Spillere/Dragony.md",
+    "content/World/Spillere/Engelbert.md",
+    "content/World/Spillere/Thokk.md",
+    "content/index.md",
+    "lib/media/aeon.jpg",
+    "lib/media/drexel.jpg",
+    "lib/media/eldrin.jpg",
+    "lib/media/lysandra.jpg",
+    "lib/media/miran.jpeg",
+    "lib/media/noctra.jpeg",
+    "lib/media/syrax.jpeg",
+    "lib/media/tharros.jpeg",
+    "lib/media/vox.jpeg",
+    "lib/media/zephyra.jpeg",
+    "lib/media/gården.jpg",
+    "lib/media/zephia.png",
+    "lib/media/auria.png",
+    "lib/media/riverton.png",
+    "lib/media/alaric.jpg",
+    "lib/media/brakka.jpg",
+    "lib/media/krogar.jpg",
+    "lib/media/asra.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "content/Assets/Gods/Aeon.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 220865,
+      "exportedPath": "content/assets/gods/aeon.jpg",
+      "dependencies": []
+    },
+    "content/Assets/Gods/Drexel.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 258396,
+      "exportedPath": "content/assets/gods/drexel.jpg",
+      "dependencies": []
+    },
+    "content/Assets/Gods/Eldrin.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 163623,
+      "exportedPath": "content/assets/gods/eldrin.jpg",
+      "dependencies": []
+    },
+    "content/Assets/Gods/Lysandra.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 217790,
+      "exportedPath": "content/assets/gods/lysandra.jpg",
+      "dependencies": []
+    },
+    "content/Assets/Gods/Miran.jpeg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 220859,
+      "exportedPath": "content/assets/gods/miran.jpeg",
+      "dependencies": []
+    },
+    "content/Assets/Gods/Noctra.jpeg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 158593,
+      "exportedPath": "content/assets/gods/noctra.jpeg",
+      "dependencies": []
+    },
+    "content/Assets/Gods/Syrax.jpeg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 306700,
+      "exportedPath": "content/assets/gods/syrax.jpeg",
+      "dependencies": []
+    },
+    "content/Assets/Gods/Tharros.jpeg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 195507,
+      "exportedPath": "content/assets/gods/tharros.jpeg",
+      "dependencies": []
+    },
+    "content/Assets/Gods/Vox.jpeg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 293466,
+      "exportedPath": "content/assets/gods/vox.jpeg",
+      "dependencies": []
+    },
+    "content/Assets/Gods/Zephyra.jpeg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 179466,
+      "exportedPath": "content/assets/gods/zephyra.jpeg",
+      "dependencies": []
+    },
+    "content/Assets/Maps/Asra.png": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 24498017,
+      "exportedPath": "content/assets/maps/asra.png",
+      "dependencies": []
+    },
+    "content/Assets/Maps/auria.png": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 2689814,
+      "exportedPath": "content/assets/maps/auria.png",
+      "dependencies": []
+    },
+    "content/Assets/Maps/riverton.png": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 1153102,
+      "exportedPath": "content/assets/maps/riverton.png",
+      "dependencies": []
+    },
+    "content/Assets/Maps/Zephia.png": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 5532592,
+      "exportedPath": "content/assets/maps/zephia.png",
+      "dependencies": []
+    },
+    "content/Assets/NPCs/Alaric.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 203826,
+      "exportedPath": "content/assets/npcs/alaric.jpg",
+      "dependencies": []
+    },
+    "content/Assets/NPCs/brakka.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 181440,
+      "exportedPath": "content/assets/npcs/brakka.jpg",
+      "dependencies": []
+    },
+    "content/Assets/NPCs/Elrohir.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 10437,
+      "exportedPath": "content/assets/npcs/elrohir.jpg",
+      "dependencies": []
+    },
+    "content/Assets/NPCs/Krogar.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 223325,
+      "exportedPath": "content/assets/npcs/krogar.jpg",
+      "dependencies": []
+    },
+    "content/Assets/Placeholders/27002.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 431602,
+      "exportedPath": "content/assets/placeholders/27002.jpg",
+      "dependencies": []
+    },
+    "content/Assets/Placeholders/user-profile-front-side-with-white-background.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 3488255,
+      "exportedPath": "content/assets/placeholders/user-profile-front-side-with-white-background.jpg",
+      "dependencies": []
+    },
+    "content/Assets/Places/gården.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 213447,
+      "exportedPath": "content/assets/places/gården.jpg",
+      "dependencies": []
+    },
+    "content/World/Guder/Aeon.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 1629,
+      "exportedPath": "content/world/guder/aeon.html",
+      "dependencies": [
+        "lib/media/aeon.jpg"
+      ]
+    },
+    "content/World/Guder/Drexel.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 845,
+      "exportedPath": "content/world/guder/drexel.html",
+      "dependencies": [
+        "lib/media/drexel.jpg"
+      ]
+    },
+    "content/World/Guder/Eldrin.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 851,
+      "exportedPath": "content/world/guder/eldrin.html",
+      "dependencies": [
+        "lib/media/eldrin.jpg"
+      ]
+    },
+    "content/World/Guder/Lysandra.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 918,
+      "exportedPath": "content/world/guder/lysandra.html",
+      "dependencies": [
+        "lib/media/lysandra.jpg"
+      ]
+    },
+    "content/World/Guder/Miran.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 876,
+      "exportedPath": "content/world/guder/miran.html",
+      "dependencies": [
+        "lib/media/miran.jpeg"
+      ]
+    },
+    "content/World/Guder/Noctra.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 838,
+      "exportedPath": "content/world/guder/noctra.html",
+      "dependencies": [
+        "lib/media/noctra.jpeg"
+      ]
+    },
+    "content/World/Guder/Syrax.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 906,
+      "exportedPath": "content/world/guder/syrax.html",
+      "dependencies": [
+        "lib/media/syrax.jpeg"
+      ]
+    },
+    "content/World/Guder/Tharros.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 896,
+      "exportedPath": "content/world/guder/tharros.html",
+      "dependencies": [
+        "lib/media/tharros.jpeg"
+      ]
+    },
+    "content/World/Guder/Vox.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 834,
+      "exportedPath": "content/world/guder/vox.html",
+      "dependencies": [
+        "lib/media/vox.jpeg"
+      ]
+    },
+    "content/World/Guder/Zephyra.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 852,
+      "exportedPath": "content/world/guder/zephyra.html",
+      "dependencies": [
+        "lib/media/zephyra.jpeg"
+      ]
+    },
+    "content/World/Lokationer/Riverton/Gården.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 1104,
+      "exportedPath": "content/world/lokationer/riverton/gården.html",
+      "dependencies": [
+        "lib/media/gården.jpg"
+      ]
+    },
+    "content/World/Lokationer/Zephia/ZephiaMap.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 1578,
+      "exportedPath": "content/world/lokationer/zephia/zephiamap.html",
+      "dependencies": [
+        "lib/media/zephia.png"
+      ]
+    },
+    "content/World/Lokationer/Auria.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 1547,
+      "exportedPath": "content/world/lokationer/auria.html",
+      "dependencies": [
+        "lib/media/auria.png",
+        "lib/media/auria.png"
+      ]
+    },
+    "content/World/Lokationer/Riverton.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 1310,
+      "exportedPath": "content/world/lokationer/riverton.html",
+      "dependencies": [
+        "lib/media/riverton.png"
+      ]
+    },
+    "content/World/Lokationer/Zephia.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 3608,
+      "exportedPath": "content/world/lokationer/zephia.html",
+      "dependencies": [
+        "lib/media/zephia.png",
+        "lib/media/zephia.png"
+      ]
+    },
+    "content/World/NPCs/Aleric.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 1100,
+      "exportedPath": "content/world/npcs/aleric.html",
+      "dependencies": [
+        "lib/media/alaric.jpg"
+      ]
+    },
+    "content/World/NPCs/Brakka Giftpil.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 1116,
+      "exportedPath": "content/world/npcs/brakka-giftpil.html",
+      "dependencies": [
+        "lib/media/brakka.jpg"
+      ]
+    },
+    "content/World/NPCs/Krogar Ironfist.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 1075,
+      "exportedPath": "content/world/npcs/krogar-ironfist.html",
+      "dependencies": [
+        "lib/media/krogar.jpg"
+      ]
+    },
+    "content/World/Spillere/Daecan.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 37,
+      "exportedPath": "content/world/spillere/daecan.html",
+      "dependencies": []
+    },
+    "content/World/Spillere/Dragony.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 38,
+      "exportedPath": "content/world/spillere/dragony.html",
+      "dependencies": []
+    },
+    "content/World/Spillere/Engelbert.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 40,
+      "exportedPath": "content/world/spillere/engelbert.html",
+      "dependencies": []
+    },
+    "content/World/Spillere/Thokk.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 36,
+      "exportedPath": "content/world/spillere/thokk.html",
+      "dependencies": []
+    },
+    "content/index.md": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 3175,
+      "exportedPath": "content/index.html",
+      "dependencies": [
+        "lib/media/asra.png"
+      ]
+    },
+    "lib/media/aeon.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 220865,
+      "exportedPath": "lib/media/aeon.jpg",
+      "dependencies": []
+    },
+    "lib/media/drexel.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 258396,
+      "exportedPath": "lib/media/drexel.jpg",
+      "dependencies": []
+    },
+    "lib/media/eldrin.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 163623,
+      "exportedPath": "lib/media/eldrin.jpg",
+      "dependencies": []
+    },
+    "lib/media/lysandra.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 217790,
+      "exportedPath": "lib/media/lysandra.jpg",
+      "dependencies": []
+    },
+    "lib/media/miran.jpeg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 220859,
+      "exportedPath": "lib/media/miran.jpeg",
+      "dependencies": []
+    },
+    "lib/media/noctra.jpeg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 158593,
+      "exportedPath": "lib/media/noctra.jpeg",
+      "dependencies": []
+    },
+    "lib/media/syrax.jpeg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 306700,
+      "exportedPath": "lib/media/syrax.jpeg",
+      "dependencies": []
+    },
+    "lib/media/tharros.jpeg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 195507,
+      "exportedPath": "lib/media/tharros.jpeg",
+      "dependencies": []
+    },
+    "lib/media/vox.jpeg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 293466,
+      "exportedPath": "lib/media/vox.jpeg",
+      "dependencies": []
+    },
+    "lib/media/zephyra.jpeg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 179466,
+      "exportedPath": "lib/media/zephyra.jpeg",
+      "dependencies": []
+    },
+    "lib/media/gården.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 213447,
+      "exportedPath": "lib/media/gården.jpg",
+      "dependencies": []
+    },
+    "lib/media/zephia.png": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 5532592,
+      "exportedPath": "lib/media/zephia.png",
+      "dependencies": []
+    },
+    "lib/media/auria.png": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 2689814,
+      "exportedPath": "lib/media/auria.png",
+      "dependencies": []
+    },
+    "lib/media/riverton.png": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 1153102,
+      "exportedPath": "lib/media/riverton.png",
+      "dependencies": []
+    },
+    "lib/media/alaric.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 203826,
+      "exportedPath": "lib/media/alaric.jpg",
+      "dependencies": []
+    },
+    "lib/media/brakka.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 181440,
+      "exportedPath": "lib/media/brakka.jpg",
+      "dependencies": []
+    },
+    "lib/media/krogar.jpg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 223325,
+      "exportedPath": "lib/media/krogar.jpg",
+      "dependencies": []
+    },
+    "lib/media/asra.png": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 24498017,
+      "exportedPath": "lib/media/asra.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 24692,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 1440,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 157722,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 701815,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 14852,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1714770680689,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
